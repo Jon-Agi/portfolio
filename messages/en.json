@@ -1,0 +1,84 @@
+{
+  "general": {
+    "home": "Home",
+    "cv": "CV",
+    "projects": "Home"
+  },
+  "mainPage": {
+    "shortFilm": "Short Film {year}",
+    "podcast": "Videopodcast {year}",
+    "documental": "Documentary {year}",
+    "videoClip": "Music Video {year}",
+    "trailer": "Trailer {year}",
+    "summary": "Event recap {year}",
+    "shortDocumental": "Short Documentary {year}"
+  },
+  "cv": {
+    "aptitudes": "Aptitudes",
+    "languages": "Languages",
+    "workExperience": "Work Experience",
+    "academicFormation": "Academic Formation",
+    "residence": "Availability",
+    "contactInformation": "Contact",
+    "email": "Email",
+    "phone": "Phone",
+    "workPreference": "Available for remote or on-site work.",
+    "driversLicense": "I have a driver's license."
+  },
+  "eneagrama": {
+    "description": "Hosted by Katixa Agirre and Jokin Ameztoi, this program uses the enneagram to better understand the interviewees – well-known figures from Basque culture. A videopodcast produced by Begira Produkzioak for EITB Media, available on the GUAU platform.",
+    "responsibility": "Responsibilities: Editing the programs, subtitling, and editing content for social media and promotional materials."
+  },
+  "rekalde": {
+    "description": "The base of the project is the Rekalde area, a reference for Basque artistic creation. Artists from different disciplines and generations were invited to create their own art, experiments, or performances to create 12 pieces of one 5 minute and a 50 minute documentary.",
+    "responsibility": "Responsibilities: Resource image management, editing of 7 pieces, and editing content for social media and promotional materials. Translation and subtitling in Basque as a Master's thesis."
+  },
+  "islia": {
+    "description": "Project for a documentary about the archaeological excavations led by the Aranzadi Society on Garraitz Island in Lekeitio.",
+    "responsibility": "Responsibility: Editing the trailer."
+  },
+  "vps": {
+    "description": "Project for a true crime documentary series, fictionalizing historical trials.",
+    "responsibility": "Responsibility: Research for the script and assistant editor for the trailer."
+  },
+  "glaziarrak": {
+    "description": "Documentary series that takes viewers on a journey to show the evolution and current situation of four Pyrenean glaciers, shown on the Primeran platform and presented at the BBK Mendi Film Festival. It follows the effects of global warming on glaciers, with Iker Larrañaga as director and Eñaut Izagirre as presenter. The program consists of four 20-minute episodes.",
+    "responsibility": "Responsibility: In episode 2, Vignemale - Ura, assistant editor, and in episode 4, Perdido - Lurra, editor of the Aralar segment."
+  },
+  "zinebi": {
+    "description": "Daily video summaries created to promote the 2024 film festival on social media.",
+    "responsibility": "Responsibility: Editing"
+  },
+  "kguasaki": {
+    "description": "Teaser for a miniseries. University project created by students.",
+    "responsibility": "Responsibilities: Color grading, editing assistant."
+  },
+  "agur_maria": {
+    "description": "Short film. University project made by students.",
+    "responsibility": "Responsibilities: Producer, camera operator."
+  },
+  "bbl": {
+    "description": "Teaser/trailer for a miniseries. University project created by students.",
+    "responsibility": "Responsibility: Editing of the trailer."
+  },
+  "erreka": {
+    "description": "Short film. University project made by students.",
+    "responsibility": "Responsibilities: Editing, color grading."
+  },
+  "oilotegi": {
+    "description": "Documentary. University project.",
+    "responsibility": "Responsibilities: Direction, subtitles."
+  },
+  "entzun": {
+    "description": "Music video. Indie project.",
+    "responsibility": "Responsibility: Editing."
+  },
+  "denbora": {
+    "description": "Short documentary. University project.",
+    "responsibility": "Responsibilities: Everything but acting."
+  },
+  "akatu": {
+    "description": "Short film. University project made by students.",
+    "responsibility": "Responssibilities: Script, director of photography, camera, and color grading."
+  }
+}

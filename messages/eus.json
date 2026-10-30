@@ -1,0 +1,85 @@
+{
+  "general": {
+    "home": "Hasiera",
+    "cv": "CV",
+    "projects": "Hasiera"
+  },
+  "mainPage": {
+    "shortFilm": "Laburmetraia {year}",
+    "podcast": "Bideopodkast {year}",
+    "documental": "Dokumentala {year}",
+    "videoClip": "Bideoklipa {year}",
+    "trailer": "Trailerra {year}",
+    "summary": "Ekintzaren Laburpena {year}",
+    "shortDocumental": "Dokumental laburra {year}"
+  },
+  "cv": {
+    "aptitudes": "Gaitasunak",
+    "languages": "Hizkuntzak",
+    "workExperience": "Lan esperientzia",
+    "academicFormation": "Hezkuntza",
+    "residence": "Bitartekoak",
+    "contactInformation": "Kontaktua",
+    "email": "Emaila",
+    "phone": "Telefonoa",
+    "workPreference": "Bertan edo etxetik lan egiteko aukera.",
+    "driversLicense": "Gida-karneta daukat"
+  },
+  "eneagrama": {
+    "description": "Katixa Agirrek eta Jokin Ameztoik gidatutako programa, eneagramaren jakinduriaz baliatuko gara gure elkarrizketatuak hobeto ezagutzeko. Euskal kulturaren aurpegi ezagunak pasa dira Begira produkzioek EITB Mediarentzat ekoitzitako bideopodkast honetatik. GUAU plataforman ikusgai. ",
+    "responsibility": "Ardura: Programen edizioa, sare sozialetarako edukien azpidazketa eta muntaia.",
+    "here": "hemen"
+  },
+  "rekalde": {
+    "description": "Proiektuaren oinarria Rekalde Aretoa da, erreferentzia euskal sorkuntza artistikorako. Diziplina eta belaunaldi desberdinetako artistak gonbidatuak izan ziren espazio hori haien artelan, esperimentazio edo performanceak egiteko, horrekin 5 minutu inguruko 12 pieza eta dokumental luze bat gauzatzeko.",
+    "responsibility": "Ardura: Baliabide irudien kudeaketa, 7 piezen edizioa eta edukien muntaia promozio eta sare sozialetarako. Euskararazko egokitzapena eta azpitituluak egitea Gradu Amaierako Lan gisa."
+  },
+  "islia": {
+    "description": "Lekeitioko Garraitz uhartean Aranzadi elkarteak zuzendutako indusketa arkeologikoei buruzko dokumental baterako proiektua.",
+    "responsibility": "Ardura: Trailerraren muntaia."
+  },
+  "vps": {
+    "description": "True crime dokumental sail baterako proiektua, historiako prozesu judizial handiak fikzionatuz.",
+    "responsibility": "Ardura: Gidoirako ikerketa eta trailerrerako edizio-laguntzailea."
+  },
+  "glaziarrak": {
+    "description": "Piriniotako lau glaziarren bilakaera eta egungo egoera erakusteko bidaia proposatzen duen dokumental sorta, Primeran plataforman ikusgai eta BBK mendi filmean aurkeztua. Iker Larrañaga zuzendari gisa eta Eñaut Izagirre aurkezle izanda beroketa globalak glaziarrengan dituen efektuak jarraitzen ditu.",
+    "responsibility": "20 minutuko 4 kapituluk sortzen dute programa, horietako 2n parte hartu dut. 2. Vignemale - Ura kapituluan, muntai laguntzaile.4. Perdido - Lurra kapituluan, Aralarreko piezaren muntaia."
+  },
+  "zinebi": {
+    "description": "2024. urteko zinema jaialdia sare sozialetan sustatzeko egunero egindako bideolaburpenak.",
+    "responsibility": "Ardura: Edizioa."
+  },
+  "kguasaki": {
+    "description": "Minisail baterako teaserra. Ikasleek egindako unibertsitate-proiektua.",
+    "responsibility": "Ardura: Etalonajea, edizio laguntzailea."
+  },
+  "agur_maria": {
+    "description": "Laburmetraia. Unibertsitate-proiektua.",
+    "responsibility": "Ardura: Ekoizlea, kamera operadorea."
+  },
+  "bbl": {
+    "description": "Minisail baterako teaser/trailerrra. Ikasleek egindako unibertsitate-proiektua.",
+    "responsibility": "Ardura: Trailerra muntatzea. "
+  },
+  "erreka": {
+    "description": "Laburmetraia. Unibertsitate-proiektua.",
+    "responsibility": "Ardura: Muntaia, etalonajea."
+  },
+  "oilotegi": {
+    "description": "Dokumentala. Unibertsitate-proiektua.",
+    "responsibility": "Ardura: Zuzendaritza, azpidatziak."
+  },
+  "entzun": {
+    "description": "Bideoklipa. Proiektu askea.",
+    "responsibility": "Ardura: Edizioa."
+  },
+  "denbora": {
+    "description": "Dokumental laburra. Unibertsitate-proiektua.",
+    "responsibility": "Ardura: Osoa, antzezpenak izan ezik."
+  },
+  "akatu": {
+    "description": "Film laburra. Ikasleek egindako unibertsitate-proiektua.",
+    "responsibility": "Ardura: gidoia, argazki-zuzendaritza, kamera operadorea, etalonajea."
+  }
+}

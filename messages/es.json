@@ -1,0 +1,86 @@
+{
+  "general": {
+    "home": "Inicio",
+    "cv": "CV",
+    "projects": "Inicio"
+  },
+  "mainPage": {
+    "shortFilm": "Cortometraje {year}",
+    "podcast": "Videopodcast {year}",
+    "documental": "Documental {year}",
+    "videoClip": "Videoclip {year}",
+    "trailer": "Trailer {year}",
+    "summary": "Resumen del evento {year}",
+    "shortDocumental": "Documental corto {year}"
+  },
+  "cv": {
+    "aptitudes": "Aptitudes",
+    "languages": "Idiomas",
+    "workExperience": "Experiencia laboral",
+    "academicFormation": "Formación académica",
+    "residence": "Disponibilidad",
+    "contactInformation": "Contacto",
+    "email": "Correo",
+    "phone": "Teléfono",
+    "workPreference": "Disponibile para trabajo remoto o presencial.",
+    "driversLicense": "Tengo carnet de conducir"
+  },
+  "eneagrama": {
+    "description": "Programa conducido por Katixa Agirre y Jokin Ameztoi, nos serviremos del eneagrama para conocer mejor a nuestros entrevistados, caras conocidas de la cultura vasca. Videopodcast producido por Begira Produkzioak para EITB Media. Visible en la plataforma GUAU.",
+    "responsibility": "Responsabilidad: Edición de los programas, subtitulación y montaje de contenidos para redes sociales y promocionales.",
+    "here": "aquí"
+  },
+  "rekalde": {
+    "description": "La base del proyecto es la Sala Rekalde, referencia para la creación artística vasca. Artistas de diferentes disciplinas y generaciones fueron invitados a realizar sus propias obras de arte, experimentaciones o performances para crear con ello 12 piezas de unos 5 minutos y un documental de 50 minutos.",
+    "responsibility": "Responsabilidad: Gestión de las imágenes de recurso, edición de 7 piezas y montaje de contenidos para redes sociales y promocionales. Traducción y subtitulación al euskera como Trabajo de Fin de Grado.",
+    "here": "aquí"
+  },
+  "islia": {
+    "description": "Proyecto para un documental en torno a las excavaciones arqueológicas dirigidas por la sociedad Aranzadi en la isla Garraitz de Lekeitio.",
+    "responsibility": "Responsabilidad: Montaje del trailer."
+  },
+  "vps": {
+    "description": "Proyecto para una serie documental true crime, ficcionando grandes juicios de la historia.",
+    "responsibility": "Responsabilidad: Investigación para el guión y ayudante de edición para el trailer."
+  },
+  "glaziarrak": {
+    "description": "Serie documental que propone un viaje para mostrar la evolución y situación actual de cuatro glaciares pirenaicos, expuesto en la plataforma Primeran y presentado en el festival BBK Mendi Film Festival. Sigue los efectos del calentamiento global en los glaciares con Iker Larrañaga como director y Eñaut Izagirre como presentador. El programa lo conforman 4 capítulos de 20 minutos.",
+    "responsibility": "Responsabilidad: En el capítulo 2. Vignemale - Ura auxiliar de montaje y en el capítulo 4. Perdido - Lurra montaje de la pieza del Aralar."
+  },
+  "zinebi": {
+    "description": "Vídeorresumenes diarios realizados para promocionar el festival de cine del año 2024 en redes sociales.",
+    "responsibility": "Responsabilidad: Edición"
+  },
+  "bbl": {
+    "description": "Teaser/trailer de miniserie. Proyecto de universidad hecho por alumnos.",
+    "responsibility": "Responsabilidad: Montaje del trailer."
+  },
+  "kguasaki": {
+    "description": "Teaser de miniserie. Proyecto de universidad hecho por alumnos.",
+    "responsibility": "Responsabilidad: Etalonaje, ayudante de edición."
+  },
+  "agur_maria": {
+    "description": "Cortometraje. Proyecto de universidad hecho por alumnos.",
+    "responsibility": "Responsabilidad: Productor, cámara."
+  },
+  "erreka": {
+    "description": "Cortometraje. Proyecto de universidad hecho por alumnos.",
+    "responsibility": "Responsabilidad: Montaje, etalonaje."
+  },
+  "oilotegi": {
+    "description": "Documental. Proyecto de universidad.",
+    "responsibility": "Responsabilidad: Dirección, subtítulos."
+  },
+  "entzun": {
+    "description": "Videoclip. Proyecto independiente.",
+    "responsibility": "Responsabilidad: Edición."
+  },
+  "denbora": {
+    "description": "Cortometraje documental. Proyecto de universidad.",
+    "responsibility": "Responsabilidad: Completa a excepción de los actores y actrices."
+  },
+  "akatu": {
+    "description": "Cortometraje. Proyecto de universidad hecho por alumnos.",
+    "responsibility": "Responsabilidad: Guión, director de fotografía, cámara, etalonaje."
+  }
+}
