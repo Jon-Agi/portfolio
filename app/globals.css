@@ -18,6 +18,10 @@ body {
 }
 
 @layer base {
+  html {
+    font-size: 150%;
+  }
+
   :root {
     --background: #111111;
 
