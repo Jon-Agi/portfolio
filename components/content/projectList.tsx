@@ -70,6 +70,14 @@ export default function ProjectList() {
         image2Text={t("videoClip", { year: "2024" })}
         route2="/entzun"
       />
+      <ResponsiveImage
+        imageUrl="/page/bibat.jpg"
+        alt="BIBAT 2025"
+        width={2590}
+        height={720}
+        imageText={t("summary", { year: "2025" })}
+        route="/bibat"
+      />
       <EqualSizeRow
         imageUrl1="/page/akatu.jpg"
         alt1="imagen akatu"

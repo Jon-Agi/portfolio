@@ -81,5 +81,9 @@
   "akatu": {
     "description": "Film laburra. Ikasleek egindako unibertsitate-proiektua.",
     "responsibility": "Ardura: gidoia, argazki-zuzendaritza, kamera operadorea, etalonajea."
+  },
+  "bibat": {
+    "description": "BIBAT 2025 ekitaldiaren laburpena.",
+    "responsibility": "Ardurak: Ekoizpena, muntaia, kamera eta argiztapena."
   }
 }

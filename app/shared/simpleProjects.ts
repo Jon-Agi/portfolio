@@ -1,19 +1,4 @@
-type simpleProjects = {
-  islia: string;
-  vps: string;
-  glaziarrak: string;
-  zinebi: string;
-  kguasaki: string;
-  agur_maria: string;
-  erreka: string;
-  denbora: string;
-  oilotegi: string;
-  entzun: string;
-  akatu: string;
-  bbl: string;
-};
-
-export const simpleProjectsVideoUrls: simpleProjects = {
+export const simpleProjectsVideoUrls: Record<string, string | string[]> = {
   islia: "https://www.youtube.com/watch?v=pneXJBmoGdA",
   vps: "https://player.vimeo.com/video/1008685869",
   glaziarrak: "https://player.vimeo.com/video/1051173335",
@@ -26,9 +11,14 @@ export const simpleProjectsVideoUrls: simpleProjects = {
   entzun: "https://www.youtube.com/watch?v=758IYa1cnuk",
   akatu: "https://www.youtube.com/watch?v=rDYH_QuPzRU",
   bbl: "https://www.youtube.com/watch?v=y3PuA5GfgV4",
+  bibat: [
+    "https://youtu.be/5gluiSbLgnA",
+    "https://youtu.be/SdKxb79scLA",
+    "https://youtu.be/Ouxq1ld0YcQ",
+  ],
 };
 
-export const simpleProjectsToTitles: simpleProjects = {
+export const simpleProjectsToTitles: Record<string, string> = {
   islia: "ISLIA",
   vps: "VISTO PARA SENTENCIA",
   glaziarrak: "GLAZIARRAK AGURTZEN",
@@ -41,4 +31,5 @@ export const simpleProjectsToTitles: simpleProjects = {
   entzun: "ENTZUN DEZATELA",
   akatu: "AKATU",
   bbl: "BEHIN BATEAN LOIOLAN",
+  bibat: "BIBAT 2025",
 };

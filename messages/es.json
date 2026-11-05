@@ -82,5 +82,9 @@
   "akatu": {
     "description": "Cortometraje. Proyecto de universidad hecho por alumnos.",
     "responsibility": "Responsabilidad: Guión, director de fotografía, cámara, etalonaje."
+  },
+  "bibat": {
+    "description": "Resumen del evento BIBAT 2025.",
+    "responsibility": "Responsabilidad: Producción, montaje, cámara e iluminación."
   }
 }

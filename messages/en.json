@@ -80,5 +80,9 @@
   "akatu": {
     "description": "Short film. University project made by students.",
     "responsibility": "Responssibilities: Script, director of photography, camera, and color grading."
+  },
+  "bibat": {
+    "description": "BIBAT 2025 event recap.",
+    "responsibility": "Responsibilities: Production, editing, camera, and lighting."
   }
 }
