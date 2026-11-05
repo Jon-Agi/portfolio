@@ -17,10 +17,47 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "Jon Aginako Portfolio",
-  description: "Portfolio of Jon Aginako",
-};
+const siteUrl = new URL("https://jonaginako.pages.dev");
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const title = "Jon Aginako Portfolio";
+  const description = "Portfolio of Jon Aginako";
+  const openGraphLocales: Record<string, string> = {
+    en: "en_US",
+    es: "es_ES",
+    eus: "eu_ES",
+  };
+
+  return {
+    metadataBase: siteUrl,
+    title,
+    description,
+    alternates: {
+      canonical: `/${locale}`,
+    },
+    openGraph: {
+      title,
+      description,
+      url: `/${locale}`,
+      siteName: title,
+      locale: openGraphLocales[locale],
+      type: "website",
+      images: [
+        {
+          url: "/agi.webp",
+          width: 768,
+          height: 768,
+          alt: "Jon Aginako",
+        },
+      ],
+    },
+  };
+}
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
